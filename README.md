@@ -1,6 +1,6 @@
 # ASM - Utility to manage secrets in Aws Secrets Manager
 
-This is a simple utility to manage secrets in AWS Secrets Manager. This script helps you group secrets by service and environment. It will create a secret in the format of /<environment>/<service>/<secret>. It makes management of secrets easier and more organized.
+This is a simple utility to manage secrets in AWS Secrets Manager. This script helps you group secrets by service and environment. It will create a secret in the format of` /<environment>/<service>/<secret>`. It makes management of secrets easier and more organized.
 
 
 ## Installation
