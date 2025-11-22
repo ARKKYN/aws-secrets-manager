@@ -31,6 +31,20 @@ pip install secrets-manager-aws
 poetry add secrets-manager-aws
 ```
 
+## 🧪 Running Tests
+
+To run the unit tests, use the following command:
+
+```bash
+.venv/bin/python -m unittest discover tests
+```
+
+Or if you have the virtual environment activated:
+
+```bash
+python -m unittest discover tests
+```
+
 ## 🎯 Usage
 
 The utility provides a simple and intuitive command-line interface for managing your AWS Secrets.
